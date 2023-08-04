@@ -1,4 +1,4 @@
-﻿# MarketsMate
+﻿# MarketsSpy
 
 ### Project description:
 This is a simple application that helps me determine in which of the three supermarkets near my home is cheaper to buy certain products or stuff.
